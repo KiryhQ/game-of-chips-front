@@ -7,5 +7,8 @@ module.exports = {
     output: {
         path: resolve('./'),
         filename: 'loader.min.js'
+    },
+    optimization: {
+        minimize: false
     }
 }

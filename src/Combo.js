@@ -97,6 +97,7 @@ export default class Combo {
   }
 
   name() {
+    console.log(Fr.langue().combos[this.constructor.name])
     return Fr.langue().combos[this.constructor.name]
   }
 }

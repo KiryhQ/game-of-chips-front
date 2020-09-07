@@ -1,3 +1,15 @@
+import RoyalFlush from './combos/RoyalFlush'
+import StraightFlush from './combos/StraightFlush'
+import FourOfAKind from './combos/FourOfAKind'
+import FullHouse from './combos/FullHouse'
+import Flush from './combos/Flush'
+import Straight from './combos/Straight'
+import ThreeOfAKind from './combos/ThreeOfAKind'
+import TwoPairs from './combos/TwoPairs'
+import Pair from './combos/Pair'
+import HighCard from './combos/HighCard'
+
+
 const COMBOS = [
   {name: "RoyalFlush", class:RoyalFlush },
   {name: "StraightFlush", class: StraightFlush},

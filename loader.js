@@ -19,4 +19,3 @@ import './src/combos/StraightFlush.js'
 import './src/combos/RoyalFlush.js'
 
 import './src/GameOfChips.js'
-import './greetings.min.js'

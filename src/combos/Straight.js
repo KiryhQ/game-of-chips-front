@@ -1,4 +1,5 @@
 import Combo from '../Combo'
+import Card from '../Card'
 class Straight extends Combo {
   static isAvailable(cards) {
     let values = cards.map(card => card.value())

@@ -1,3 +1,4 @@
+import Combo from '../Combo'
 class ThreeOfAKind extends Combo {
   static isAvailable(cards) {
     let occureds = Combo.occureds(cards)

@@ -1,3 +1,4 @@
+import Combo from '../Combo'
 class Flush extends Combo {
   static isAvailable(cards) {
     let types = cards.map(card => card.type()).gemUniq()

@@ -7,3 +7,4 @@ class Pair extends Combo {
     return nbVals.includes(2)
   }
 }
+export default Pair

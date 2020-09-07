@@ -4,3 +4,4 @@ class StraightFlush extends Combo {
     return Straight.isAvailable(cards) && Flush.isAvailable(cards)
   }
 }
+export default StraightFlush

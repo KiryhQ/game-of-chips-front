@@ -6,3 +6,4 @@ class FourOfAKind extends Combo {
     return Object.values(occureds).map(o => o.length).includes(4)
   }
 }
+export default FourOfaKind

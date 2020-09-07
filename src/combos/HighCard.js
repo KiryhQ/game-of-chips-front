@@ -4,3 +4,4 @@ class HighCard extends Combo {
     return true
   }
 }
+export default HighCard

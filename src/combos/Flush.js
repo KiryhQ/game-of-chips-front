@@ -6,3 +6,4 @@ class Flush extends Combo {
     return types.length === 1
   }
 }
+export default Flush

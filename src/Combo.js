@@ -1,5 +1,5 @@
 import Card from './Card'
-import data from '../fr'
+import Fr from '../fr'
 
 
 export default class Combo {
@@ -97,6 +97,6 @@ export default class Combo {
   }
 
   name() {
-    return data.combos[this.constructor.name]
+    return Fr.langue().combos[this.constructor.name]
   }
 }

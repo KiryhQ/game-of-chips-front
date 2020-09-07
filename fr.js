@@ -4,10 +4,10 @@ class Fr {
     let data = {
     "combos": 
       {
-        "m": "Hauteur",
-        "h": "Paire",
-        "h": "Deux paires",
-        "m": "Brelan",
+        "HighCard": "Hauteur",
+        "Pair": "Paire",
+        "TwoPairs": "Deux paires",
+        "ThreeOfAKind": "Brelan",
         "Straight": "Suite",
         "Flush": "Flush",
         "FullHouse": "Full",

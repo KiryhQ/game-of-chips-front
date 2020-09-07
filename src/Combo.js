@@ -97,6 +97,7 @@ export default class Combo {
   }
 
   name() {
+    console.log(this.constructor.name)
     return data.combos[this.constructor.name]
   }
 }

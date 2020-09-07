@@ -9,6 +9,7 @@ import TwoPairs from './combos/TwoPairs'
 import Pair from './combos/Pair'
 import HighCard from './combos/HighCard'
 import Deck from './Deck'
+import Combo from './Combo'
 
 
 const COMBOS = [

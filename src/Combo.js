@@ -97,8 +97,8 @@ export default class Combo {
   }
 
   name() {
-    console.log(this)
-    console.log(Fr.langue().combos)
+    console.log("global object : " + this)
+    console.log("Tableau combo : " + Fr.langue().combos)
     return Fr.langue().combos[this.constructor.name]
   }
 }

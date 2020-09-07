@@ -4,7 +4,7 @@ class Fr {
     let data = {
     "combos": 
       {
-        "HighCard": "Hauteur",
+        "h": "Hauteur",
         "Pair": "Paire",
         "TwoPairs": "Deux paires",
         "ThreeOfAKind": "Brelan",

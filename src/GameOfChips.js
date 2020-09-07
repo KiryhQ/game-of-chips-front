@@ -8,6 +8,7 @@ import ThreeOfAKind from './combos/ThreeOfAKind'
 import TwoPairs from './combos/TwoPairs'
 import Pair from './combos/Pair'
 import HighCard from './combos/HighCard'
+import Deck from './Deck'
 
 
 const COMBOS = [

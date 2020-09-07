@@ -24,3 +24,4 @@ class Deck {
     this._cards = newCards
   }
 }
+export default Deck

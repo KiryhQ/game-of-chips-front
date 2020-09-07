@@ -1,3 +1,5 @@
+import Card from './Card'
+
 export default class Combo {
   static factory(cards, combos) {
     cards = Card.ordered(cards)

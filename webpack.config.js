@@ -1,11 +1,11 @@
 const { resolve } = require('path');
 
 module.exports = {
-    entry: resolve('test.js'),
+    entry: resolve('loader.js'),
     mode: 'production',
     watch: true,
     output: {
-        path: resolve('./'),
-        filename: 'test.min.js'
+        path: resolve('./dist'),
+        filename: 'bundle.min.js'
     },
 }

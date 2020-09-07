@@ -1,1 +1,1 @@
-import 'loading.min.js'
+import './loader.min.js'

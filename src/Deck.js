@@ -1,3 +1,4 @@
+import Card from './Card'
 class Deck {
   constructor() {
     this._cards = Card.values().map(

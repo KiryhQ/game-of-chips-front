@@ -1,5 +1,5 @@
 import Card from './Card'
-import Fr from '../fr'
+import data from '../fr'
 
 
 export default class Combo {

@@ -1,7 +1,4 @@
-
-class Fr {
-  static langue() {
-    let data = {
+let data = {
     "combos": 
       {
         "HighCard": "Hauteur",
@@ -16,7 +13,5 @@ class Fr {
         "RoyalFlush": "Quinte Flush Royale"
       }
    }
-   return data
-  }
-}
-export default Fr
+
+export default data

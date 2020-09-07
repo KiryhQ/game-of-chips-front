@@ -11,7 +11,6 @@ import HighCard from './combos/HighCard'
 import Deck from './Deck'
 import Combo from './Combo'
 
-
 const COMBOS = [
   {name: "RoyalFlush", class:RoyalFlush },
   {name: "StraightFlush", class: StraightFlush},

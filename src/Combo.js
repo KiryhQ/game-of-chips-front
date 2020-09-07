@@ -1,4 +1,6 @@
 import Card from './Card'
+import data from '../fr'
+
 
 export default class Combo {
   static factory(cards, combos) {
